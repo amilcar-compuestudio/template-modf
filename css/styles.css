@@ -509,7 +509,7 @@ footer#page-footer {
 
 .frontpage__bg-layer {
     background: #006ab5;
-    background: linear-gradient(135deg,#006ab5 0%,#013b84 100%);
+    background: linear-gradient(135deg,#dc0030 0%,#c2b600 100%);
     opacity: 0.8;
     pointer-events: none;
     position: absolute;
@@ -542,7 +542,7 @@ footer#page-footer {
     padding: 2em 0;
 }
 .frontpage__logo {
-   max-width: 150px;
+   max-width: 250px;
 }
 
 .hero__conten {
@@ -553,7 +553,7 @@ footer#page-footer {
 }
 
 .banner__image {
-    background-image: url('../img/banner.jpg');
+    background-image: url('../img/dave-goudreau-8Fj3AV5ssew-unsplash.jpg');
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -633,6 +633,10 @@ footer#page-footer {
 
 .gray__bg {
 	background: #fafafb;
+}
+
+.gray__bg_two {
+	background: #b7b7c5;
 }
 
 .row {
